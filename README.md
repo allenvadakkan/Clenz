@@ -7,7 +7,7 @@ cleaning Service final project application using Angular | Node.js | Express.js 
 System Design
 Architecture
 Web Application uses a Client-Server Architecture with:
-Client components developed using Angular 4 - Folder - '/client/Angularecommerce'   
+Client components developed using Angular  - Folder - '/client/Angularecommerce'   
 Server Restful Api's developed using Node.js, Express.js, MongoDB - Folder - '/server'
 
 
